@@ -1,0 +1,3 @@
+Buenos dìas, 
+estamos probando vim y git
+actualizado
